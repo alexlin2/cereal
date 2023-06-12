@@ -1900,6 +1900,7 @@ struct DriverMonitoringState @0xb83cda094a1da284 {
   isDistracted @2 :Bool;
   distractedType @17 :UInt32;
   awarenessStatus @3 :Float32;
+  yawError @18 :Float32;
   posePitchOffset @6 :Float32;
   posePitchValidCount @7 :UInt32;
   poseYawOffset @8 :Float32;
